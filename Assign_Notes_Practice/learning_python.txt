@@ -1,0 +1,3 @@
+in python, you can do alot of the same things i know from java
+python is possibly the most popular programming language
+this is line 3
